@@ -2,13 +2,11 @@
 
         top
          ┣ activity
-         ┃ ┗
-         ┃    ┣ adapter
-         ┃    ┗ task
+         ┃ ┣ adapter
+         ┃ ┗ task
          ┣fragment
-         ┃┗
-         ┃    ┣ adapter
-         ┃    ┗ task
+         ┃ ┣ adapter
+         ┃ ┗ task
          ┣ ds
          ┃ ┣ columns
          ┃ ┣ dao
